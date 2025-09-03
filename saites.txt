@@ -1,0 +1,2 @@
+https://os.phil-opp.com/freestanding-rust-binary/
+https://rust-book.cs.brown.edu/ch01-02-hello-world.html
