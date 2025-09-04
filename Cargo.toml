@@ -10,3 +10,8 @@ panic = "abort"
 
 [profile.release]
 panic = "abort"
+
+[[bin]]
+name = "zeki_os"
+test = false
+bench = false
